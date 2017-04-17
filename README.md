@@ -1,6 +1,6 @@
 # Curated list of databases
 
-Full list - https://databases.netlify.com/
+Full list of databases - https://databases.netlify.com/
 
 ## List
 
